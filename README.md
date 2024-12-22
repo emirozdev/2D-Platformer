@@ -1,6 +1,8 @@
 2D-Platformer
 Unity ile geliştirdiğim 2D Pixel Art platformer oyunudur. Oyunun assetleri üçüncü parti bir kaynağa aittir, bu nedenle projenin sadece C# scriptleri bulunmaktadır. Oyunu oynamak için Google Drive linkindeki dosyaları indirebilirsiniz.
 
+Oyunu indrimek için ---> https://drive.google.com/drive/folders/15uvH4ynZS_NThRowIw90ojh208Dg0k0_?usp=drive_link
+
 Proje Hakkında
 Bu oyun, Pixel Art bir sanat tarzına sahip bir 2D platform oyunudur. Kullanılan assetler çoğunlukla üçüncü parti bir kaynağa aittir, ancak bazı sprite'lar yapay zeka yardımıyla ya da tarafımca çizilmiştir. Oyuncu, basit kontrollerle platform engellerini aşmaya, düşmanları öldürmeye ve "Coin" toplama amacına odaklanır.
 
